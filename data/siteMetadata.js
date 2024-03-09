@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'GammaCode Blog',
   author: 'GammaCode',
-  headerTitle: 'GammaCode Blog',
+  headerTitle: 'GammaCode.blog',
   description: 'A blog for individuals within the technology, design or development space.',
   language: 'en-us',
   theme: 'system', // system, dark or light
