@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'GammaCode Blog',
+  author: 'GammaCode',
+  headerTitle: 'GammaCode Blog',
+  description: 'A blog for individuals within the technology, design or development space.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -13,12 +13,12 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
   github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  twitter: 'https://twitter.com/GammaCode',
+  facebook: 'https://facebook.com/GammaCode',
+  youtube: 'https://youtube.com/GammaCode',
+  linkedin: 'https://www.linkedin.com/GammaCode',
   threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  instagram: 'https://www.instagram.com/GammaCode',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
